@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SolarCoordinates": {
+      "commandName": "Project",
+      "commandLineArgs": "2019-03-20T21:58:00Z 2019-06-21T15:54:00Z 2019-09-23T07:50:00Z 2019-12-22T04:19:00Z 1957-10-04T19:29:00Z "
+    }
+  }
+}
